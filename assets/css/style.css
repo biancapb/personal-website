@@ -289,7 +289,7 @@ img {
 }
 
 .home__scroll {
-    /* display: none; */
+    display: none;
 }
 
 .home__scroll-button {
@@ -298,7 +298,7 @@ img {
 }
 
 .home__scroll-button:hover {
-    transform: translate(.25rem);
+    transform: translateY(.25rem);
 }
 
 .home__scroll-mouse {
@@ -339,6 +339,11 @@ img {
     font-weight: 1.25rem;
     margin-left: var(--mb-0-5);
     transition: .3s;
+}
+
+.button--flex {
+    display: inline-flex;
+    align-items: center;
 }
 /* About */
 /* Skills */
