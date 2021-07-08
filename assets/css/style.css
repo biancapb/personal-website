@@ -404,6 +404,12 @@ text-align: center;
     color: var(--first-color);
 }
 
+.skills__icon:hover,
+.skills__arrow:hover {
+    color: var(--first-color-lighter);
+    transition: .4s;
+}
+
 .skills__icon {
     margin-right: var(--mb-0-75);
 }
