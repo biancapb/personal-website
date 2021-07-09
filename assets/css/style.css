@@ -113,7 +113,7 @@ img {
 }
 
 .section__title {
-    font-size: var(--h1-font-size);
+    font-size: var(--mb-1-5);
   }
 
 .section__subtitle {
@@ -428,6 +428,11 @@ text-align: center;
     transition: .4s;
 }
 
+.skills__list {
+    row-gap: 1.5rem;
+    padding-left: 2.7rem;
+}
+
 .skills__titles {
     display: flex;
     justify-content: space-between;
@@ -452,6 +457,84 @@ text-align: center;
 .skills__percentage {
     display: block;
     background-color: var(--first-color);
+}
+
+.skills__html {
+    width: 40%;
+}
+
+.skills__css {
+    width: 40%;
+}
+
+.skills__js {
+    width: 10%;
+}
+
+.skills__react {
+    width: 10%;
+}
+
+.skills__kotlin {
+    width: 60%;
+}
+
+.skills__java {
+    width: 40%;
+}
+
+.skills__firebase {
+    width: 40%;
+}
+
+.skills__android {
+    width: 60%;
+}
+
+.skills__flutter {
+    width: 10%;
+}
+
+.skills__reactnative {
+    width: 10%;
+}
+
+.skills__figma {
+    width: 10%;
+}
+
+.skills__photoshop {
+    width: 10%;
+}
+
+.skills__sparkar {
+    width: 10%;
+}
+
+.skills__mysql {
+    width: 40%;
+}
+
+.skills__sqlite {
+    width: 10%;
+}
+
+.skills__mongodb {
+    width: 10%;
+}
+
+.skills__close .skills__list {
+    height: 0;
+    overflow: hidden;
+}
+
+.skills__open .skills__list {
+    height: max-content;
+    margin-bottom: var(--mb-2-5);
+}
+
+.skills__open .skills__arrow {
+    transform: rotate(-180deg);
 }
 /* Qualification */
 /* Services */
