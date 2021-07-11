@@ -711,3 +711,17 @@ text-align: center;
     color: var(--first-color);
     margin-right: var(--mb-0-25);
 }
+
+/* Active Modals */
+.active-modal {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* PORTIFOLIO */
+
+/* PROJECT IN MIND */
+
+/* TESTIMONIAL */
+
+/* CONTACT ME */
