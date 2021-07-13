@@ -232,8 +232,14 @@ text-align: center;
 }
 
 /* Active Line */
+.active-link {
+    color: var(--first-color);
+}
 
 /* Change background header */
+.scroll-header {
+    box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.32);
+}
 
 /* Home */
 .home__container {
@@ -953,3 +959,5 @@ text-align: center;
 .footer__social {
     color: white;
 }
+
+
