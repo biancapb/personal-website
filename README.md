@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Welcolme to my first Personal Page 
+# Welcome to my first Personal Page 
 
 To access click below: <br>
 [Bianca Barbosa's Personal Website](https://biancapb.github.io/personal-website/) 😊 <br> <br>
@@ -10,7 +10,7 @@ To access click below: <br>
   
 <kbd>
   
-<img style="width: 450px; height: 1450px; border-radius: 8px"  src="assets\img\Bianca Barbosa Portfolio 01.png" target="_blank" width="450" height="1450">
+<img style="width: 450px; height: 1450px; border-radius: 8px"  src="assets\img\Bianca Barbosa Portfolio 04.png" target="_blank" width="450" height="1450">
  
 </kbd>
   
