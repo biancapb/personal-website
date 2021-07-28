@@ -619,6 +619,10 @@ text-align: center;
     margin-right: var(--mb-0-25);
 }
 
+.qualification__title:active {
+    color: var(--container-color);
+}
+
 .qualification__data {
     display: grid;
     grid-template-columns: 1fr max-content 1fr;
